@@ -1,4 +1,3 @@
 print("Hello Git")
-print("Hello Git")
-A = "Hola Git"
-print(A)
+print("Hello Git nuevamente")
+print("Hello GitHub")
